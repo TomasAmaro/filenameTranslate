@@ -1,0 +1,19 @@
+{
+  "name": "translate-file-names",
+  "version": "1.0.0",
+  "description": "Simple node.js app to translate filenames of the files in folder",
+  "main": "fileNameTranslator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "filename",
+    "node"
+  ],
+  "author": "Tomás Amaro",
+  "license": "MIT",
+  "dependencies": {
+    "google-translate": "^2.0.5"
+  }
+}
